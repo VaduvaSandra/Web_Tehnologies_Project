@@ -1,0 +1,51 @@
+Nume: 
+Email: 
+Subiect: 
+Mesaj: 
+-------------------------
+Nume: 
+Email: 
+Subiect: 
+Mesaj: 
+-------------------------
+Nume: 
+Email: 
+Subiect: 
+Mesaj: 
+-------------------------
+Nume: 
+Email: 
+Subiect: 
+Mesaj: 
+-------------------------
+Nume: 
+Email: 
+Subiect: 
+Mesaj: 
+-------------------------
+Nume: Vaduva Sandra
+Email: vaduvasandra25@gmail.com
+Subiect: Participare
+Mesaj: Buna ziua,
+As dori sa particip la atelierele ce vor avea loc in cadrul Festivalului de comedie.
+-------------------------
+Nume: Ana
+Email: ana123@yahoo.com
+Subiect: Festival
+Mesaj: 123
+-------------------------
+Nume: 
+Email: 
+Subiect: 
+Mesaj: 
+-------------------------
+Nume: 
+Email: 
+Subiect: 
+Mesaj: 
+-------------------------
+Nume: 
+Email: 
+Subiect: 
+Mesaj: 
+-------------------------
